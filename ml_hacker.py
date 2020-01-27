@@ -1,3 +1,11 @@
+"""
+Title : Neural Network From scratch, 
+Author : EL-HACKER 
+Youtube Channel : https://www.youtube.com/channel/UCh_6UHjyPWiyC5IRyOadojA?view_as=subscriber
+
+"""
+
+
 import numpy
 import math
 import enum
